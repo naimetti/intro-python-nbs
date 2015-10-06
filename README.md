@@ -13,7 +13,6 @@ La idea es armar una serie de notebooks con ejemplos y conceptos básicos del le
 1. [Funciones](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Funciones.ipynb)
 1. [Clases](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Clases.ipynb)
 1. [Zen](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Zen.ipynb)
-1. [List Comprehensions](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/ListComp.ipynb)
 
 
 
