@@ -12,7 +12,11 @@ La idea es armar una serie de notebooks con ejemplos y conceptos básicos del le
 1. [Control de flujo](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/FlowControl.ipynb)
 1. [Funciones](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Funciones.ipynb)
 1. [Clases](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Clases.ipynb)
-1. [Zen](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Zen.ipynb)
+1. [Módulos](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Modulos.ipynb)
+1. [Excepciones](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Excepciones.ipynb)
+1 [Zen](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Zen.ipynb)
+1. [With](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/With.ipynb)
+1. [Generadores e Iteradores](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Generators.ipynb)
 
 
 
