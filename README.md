@@ -17,6 +17,7 @@ La idea es armar una serie de notebooks con ejemplos y conceptos básicos del le
 1. [Generadores e Iteradores](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Generators.ipynb)
 1. [Context Managers](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/With.ipynb)
 1. [Decoradores](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Deco.ipynb)
+1. [Varios](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Varios.ipynb)
 1. [Zen](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Zen.ipynb)
 
 
