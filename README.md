@@ -2,9 +2,9 @@
 
 **En construcción**
 
-Breve curso de python 3 para programadores que ya manejan otro lenguaje de scripting (especificamente Perl en este caso)
+Breve curso de python 3 para programadores que ya manejan otro lenguaje de scripting, y quieran empezar a programar en python.
 
-La idea es armar una serie de notebooks con ejemplos y conceptos básicos del lenguaje que sirva de introducción a otros programadores. 
+El mismo está escrito en castellano (español), y sirve cómo una introducción rápida a las caracteristicas básicas del lenguaje. El mismo requiere de conocimientos previos de al menos algún leguaje de programación que contempre el paradignma de la orientación a objetos. 
 
 ##Indice
 1. [Introducción](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Intro.ipynb)
@@ -21,6 +21,10 @@ La idea es armar una serie de notebooks con ejemplos y conceptos básicos del le
 1. [Zen](http://nbviewer.ipython.org/github/naimetti/intro-python-nbs/blob/master/chapters/Zen.ipynb)
 
 
+Este curso fue creado utilizando [jupyter notebook](http://jupyter.org/). Jupyter notebooks es una plicación que permite escribir documentos intercalando código python, que puede ser ejecutado dentro de los mismos. [Instalando jupyter](http://jupyter.readthedocs.org/en/latest/install.html) pueden leer estos notebooks localmente, y experimentar modificando y ejecutando los ejemplos directamente en el mismo browser.
+
+
+Nota personal:
 
 Agregar `?flush_cache=true` a las urls en caso de que este cacheada una versión desactualizada de un notebook.
 
